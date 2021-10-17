@@ -27,7 +27,7 @@ The web app was built in Python using the following libraries:
 
 <table style="width:100%">
   <tr>
-    <th><img src="img/BostonHousing Project.png" width=500/></th>
+    <th><img src="img/ss3.png" width=500/></th>
   </tr>
  </table>
  
