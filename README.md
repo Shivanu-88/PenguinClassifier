@@ -13,4 +13,23 @@ The web app was built in Python using the following libraries:
 * scikit-learn
 * pickle
 
+# Screenshots of I/O
+
+<table style="width:100%">
+  <tr>
+    <th><img src="img/ss1.png" width=200/></th>
+    <th><img src="img/ss2.png" width=500/></th>
+  </tr>
+ </table>
+
+
+# Flow Chart
+
+<table style="width:100%">
+  <tr>
+    <th><img src="img/BostonHousing Project.png" width=500/></th>
+  </tr>
+ </table>
+ 
+
 Made by Shivanu Sharma(101803045)
